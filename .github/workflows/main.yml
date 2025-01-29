@@ -36,3 +36,4 @@ jobs:
           git add -A .
           git commit -m "🐈 Last Run - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
           git push
+          Process completed with exit code 1
